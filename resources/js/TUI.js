@@ -26,6 +26,6 @@ var TUI = (function(){
     function TUI(win,obj){
 
         return {add:add};
-    };
+    }
     return TUI;
 })();
